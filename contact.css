@@ -1,0 +1,34 @@
+.contact button:hover {
+  opacity: 0.5;
+}
+
+.contact tr{
+  height: 7rem;
+}
+.contact th{
+  width: 150px;
+  color: black;
+  text-align: center;
+}
+
+.contact td{
+  width: 480px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#email {
+  width: 480px;
+}
+#full_name{
+  width: 480px;
+}
+
+#message{
+  width: 480px;
+}
+
+.contact button{
+
+  align-content: center;
+}
